@@ -5,6 +5,8 @@ JSON file system is used here
 
 New inventory can be added or deleted
 
+We can also upgrade an existing inventory
+
 ### My Project can do the following things
 1.Generate Bills 
 
